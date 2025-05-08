@@ -1,0 +1,12 @@
+[
+    {"id": 1, "question_text": "Qual é a capital da França?", "options": ["Londres", "Berlim", "Madri", "Paris"], "correct_answer": "Paris", "points": 10},
+    {"id": 2, "question_text": "Quem escreveu 'Hamlet'?", "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"], "correct_answer": "William Shakespeare", "points": 10},
+    {"id": 3, "question_text": "Qual é o maior planeta do nosso sistema solar?", "options": ["Terra", "Marte", "Júpiter", "Saturno"], "correct_answer": "Júpiter", "points": 10},
+    {"id": 4, "question_text": "Em que ano o homem pisou na Lua pela primeira vez?", "options": ["1965", "1969", "1972", "1958"], "correct_answer": "1969", "points": 10},
+    {"id": 5, "question_text": "Qual elemento químico tem o símbolo 'O'?", "options": ["Ouro", "Oxigênio", "Ósmio", "Olíbano"], "correct_answer": "Oxigênio", "points": 10},
+    {"id": 6, "question_text": "Quantos lados tem um hexágono?", "options": ["Cinco", "Seis", "Sete", "Oito"], "correct_answer": "Seis", "points": 10},
+    {"id": 7, "question_text": "Qual oceano é o maior da Terra?", "options": ["Atlântico", "Índico", "Ártico", "Pacífico"], "correct_answer": "Pacífico", "points": 10},
+    {"id": 8, "question_text": "Quem pintou a Mona Lisa?", "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"], "correct_answer": "Leonardo da Vinci", "points": 10},
+    {"id": 9, "question_text": "Qual país é conhecido como a Terra do Sol Nascente?", "options": ["China", "Coreia do Sul", "Japão", "Tailândia"], "correct_answer": "Japão", "points": 10},
+    {"id": 10, "question_text": "Qual é a moeda oficial do Reino Unido?", "options": ["Euro", "Dólar", "Libra Esterlina", "Franco"], "correct_answer": "Libra Esterlina", "points": 10}
+]
